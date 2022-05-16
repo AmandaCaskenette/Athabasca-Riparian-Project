@@ -15,7 +15,6 @@ link-citations: yes
 # Abstract {-}
 
 
-To cite a paper, make sure it is in the bib file [@xie2015] is how you cite in line
 
 
 ## Render book
